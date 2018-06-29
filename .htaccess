@@ -1,5 +1,5 @@
 <FilesMatch "\.(musicxml|mid|mscz)$">
     <IfModule mod_headers.c>
-        Header set Access-Control-Allow-Origin "http://oldtimetunebook.com/"
+        Header set Access-Control-Allow-Origin "http://oldtimetunebook.com"
     </IfModule>
 </FilesMatch>
