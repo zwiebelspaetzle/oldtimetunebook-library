@@ -7,7 +7,7 @@
   <identification>
     <encoding>
       <software>MuseScore 2.3.2</software>
-      <encoding-date>2018-08-30</encoding-date>
+      <encoding-date>2018-09-20</encoding-date>
       <supports element="accidental" type="yes"/>
       <supports element="beam" type="yes"/>
       <supports element="print" attribute="new-page" type="yes" value="yes"/>
@@ -1687,6 +1687,12 @@
         </note>
       </measure>
     <measure number="29" width="285.99">
+      <harmony print-frame="no">
+        <root>
+          <root-step>E</root-step>
+          </root>
+        <kind text="m">minor</kind>
+        </harmony>
       <note default-x="12.00" default-y="-40.00">
         <pitch>
           <step>E</step>
